@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imapsy", "Imapsy\Imapsy.csproj", "{A936A2F9-542D-4DE1-B02E-3456B750B20B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{7AFFB622-7EEA-4372-ADD5-CCB5B681F4CF}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveUp.Net.Imap4", "ActiveUp.Net.Imap4\ActiveUp.Net.Imap4.csproj", "{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Compact = Debug|Compact
+		MailSystem Dev|Any CPU = MailSystem Dev|Any CPU
+		MailSystem Dev|Compact = MailSystem Dev|Compact
+		Release|Any CPU = Release|Any CPU
+		Release|Compact = Release|Compact
+		Retail|Any CPU = Retail|Any CPU
+		Retail|Compact = Retail|Compact
+		Trial|Any CPU = Trial|Any CPU
+		Trial|Compact = Trial|Compact
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Debug|Compact.ActiveCfg = Debug|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.MailSystem Dev|Any CPU.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.MailSystem Dev|Any CPU.Build.0 = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.MailSystem Dev|Compact.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Release|Compact.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Retail|Any CPU.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Retail|Any CPU.Build.0 = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Retail|Compact.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Trial|Any CPU.ActiveCfg = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Trial|Any CPU.Build.0 = Release|Any CPU
+		{A936A2F9-542D-4DE1-B02E-3456B750B20B}.Trial|Compact.ActiveCfg = Release|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Debug|Compact.ActiveCfg = Debug|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.MailSystem Dev|Any CPU.ActiveCfg = MailSystem Dev|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.MailSystem Dev|Any CPU.Build.0 = MailSystem Dev|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.MailSystem Dev|Compact.ActiveCfg = MailSystem Dev|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Release|Compact.ActiveCfg = Release|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Retail|Any CPU.ActiveCfg = Retail|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Retail|Any CPU.Build.0 = Retail|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Retail|Compact.ActiveCfg = Retail|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Trial|Any CPU.ActiveCfg = Trial|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Trial|Any CPU.Build.0 = Trial|Any CPU
+		{6BEE77DF-2DD2-41C3-BA16-60E20B1EDDCC}.Trial|Compact.ActiveCfg = Trial|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
